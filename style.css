@@ -150,7 +150,9 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 h1 {
 line-height: 0.9;
   font-size: 60px;
-
+color: var(--bg); 
+letter-spacing: 0.3em; 
+font-family:var(--font1);
 }
 
 h2 {
