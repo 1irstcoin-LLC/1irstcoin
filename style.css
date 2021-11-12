@@ -5,8 +5,9 @@
   font-family: 'Zen Dots';
   font-style: normal;
   font-weight: 400;
-    src: url(github.com/prim4t/1irstcoin/blob/main/media/ZenDots-Regular.ttf);
+    src: url(github.com/prim4t/1irstcoin/blob/main/media/ZenDots-Regular.ttf),
 url('/media/ZenDots-Regular.ttf') format('truetype'),
+url('ZenDots-Regular.ttf') format('truetype');
 }
 
 :root {
