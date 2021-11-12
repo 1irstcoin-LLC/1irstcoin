@@ -1,11 +1,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Zen+Dots');
-
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
 @font-face {
   font-family: 'Zen Dots';
   font-style: normal;
   font-weight: 400;
-    src: url(github.com/prim4t/1irstcoin/blob/main/media/ZenDots-Regular.ttf);
+    src: url('https://fonts.googleapis.com/css2?family=Zen+Dots') format('truetype');
     src: url('/media/ZenDots-Regular.ttf') format('truetype');
     src: url('ZenDots-Regular.ttf') format('truetype');
 }
