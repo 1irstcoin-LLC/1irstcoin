@@ -7,14 +7,14 @@
   --grey: #252426;
   --red: #ef2828;
   --glow: #252426;
-  --font1: Arial, sans-serif;
+  --font1: 'Zen Dots', cursive;
   --font2: 'Trebuchet MS', sans-serif;
 }
 
 
 .button1 {
 font-weight: bold;
-font-family: var(--font1); 
+font-family: var(--font2); 
 border-radius: 5px;
   margin-top: 20px;
   margin-bottom: 0%;
@@ -37,7 +37,7 @@ border-radius: 5px;
 
 .button2 {
 font-weight: bold;
-font-family: var(--font1); 
+font-family: var(--font2); 
 border-radius: 5px;
   margin-top: 20px;
   margin-bottom: 0%;
@@ -59,7 +59,7 @@ border-radius: 5px;
 
 .buttonmini {
 font-weight: default;
-font-family: var(--font1); 
+font-family: var(--font2); 
 border-radius: 5px;
   margin-top: 0px;
   margin-bottom: 0%;
@@ -155,12 +155,12 @@ letter-spacing: 0.3em;
 font-family:var(--font1);
 }
 
-h2 {
+h2 {font-family:var(--font2);
 line-height: 0.8;
   font-size: 25px;
 }
 
-h3 {
+h3 {font-family:var(--font2);
   font-size: 15px;
 }
 
